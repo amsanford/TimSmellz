@@ -24,3 +24,4 @@
 [16/11/2017 03:13] WARNING gateway run 73: We have stopped responding to the gateway.
 [28/12/2017 03:07] WARNING client __init__ 164: PyNaCl is not installed, voice will NOT be supported
 [28/12/2017 03:21] WARNING client __init__ 164: PyNaCl is not installed, voice will NOT be supported
+[28/12/2017 03:27] WARNING client __init__ 164: PyNaCl is not installed, voice will NOT be supported

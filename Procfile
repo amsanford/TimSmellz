@@ -1,1 +1,1 @@
-worker: ./start_red_autorestart.sh
+worker: python launcher.py --start --auto-restart
