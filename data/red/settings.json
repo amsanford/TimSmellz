@@ -1,0 +1,14 @@
+{
+    "EMAIL" : null,
+    "OWNER" : "142730746287751168",
+    "PASSWORD" : null,
+    "PREFIXES" : [
+        "&"
+    ],
+    "TOKEN" : "Mjk0NTA4ODMyNjQwNTk4MDE2.C7WKTQ.RtIoJ3_Tb2sGVA9sTmjvQsSr7u8",
+    "default" : {
+        "ADMIN_ROLE" : "zebraoncrack",
+        "MOD_ROLE" : "Process",
+        "PREFIXES" : []
+    }
+}
